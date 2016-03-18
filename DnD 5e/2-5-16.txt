@@ -1,0 +1,82 @@
+Ideas:
+
+Underground building? (winery, town, settlement, cages (werewolf)
+	Lost eons ago in a violent catastrophy. Ghostly woman crying and rocking a bundle.
+	Vision:
+		the party encounters a ghostly woman sobbing and holding a bundle
+	
+		The ghostly woman suddenly stands up and looks behind her fearfully as the wispy grey scene fills in around her in a vision. A full village is now visible with the outlines of the corporeal 
+		building a perfect match. People can be seen around her in the beginning of a panic. Running in all directions. Some carrying simple weapons, some carrying children or belongings. 
+		In the distance you can see a single mountain peak rising from the center a giant lake. The mountain is shrouded by mist and backlit by the moon. 
+		Just outside the edge of the village on top of an embankment, a hooded man carrying a tall staff appears. The woman darts closer to you only to see something over your 
+		head that causes her to stop. More hooded men start to appear in the background; forming a ring around the village. The gray vision begins to tint red as light spreads from 
+		the orb on top of each hooded man's staff. The woman begins to scream as waves of red power push into the town. The townfolk directly behind her start crouching, twisting and growing in size. 
+		A wave of red power pushes in from the left behind the woman and obliterates the townsfolk behind her as if they never existed. Ghostly fires begin to envelope the town and the vision begins 
+		to shake like an earthquake. Suddenly the woman drops her bundle and screams and flexes at the sky and appears to start growing larger. She morphs into a giant werewolf and charges forward 
+		as a flash of red power begins to push in from the right enveloping the woman. 
+		
+		The vision ends.
+		
+	The ghost wearwolf attacks.
+
+Dragon cult members seen in the distance (with a torch). Have a donkey cart with them.
+	Cart: Some food (10 rations). Water barrel (20 days). Donkey oats. Dried mortar. Disassembled stone doorway and pillar.
+	Treasure: 3 casks fine wine. (Minstrel's Lodge),  Heavy brass key(safe house), Bag of shiny ore(silver), crude deep tunnels map, ledger bound with 100gp (illusory script)
+	Sealed letter: 
+		Disciple Galegon,
+		Your delay in completing the move is disturbing. I command you to execute the Deep Tunnels mission and return the key immedidately.
+		Your success in moving the research documents to the Sparrow's Point safe house has only made this failure more vexing. The Master is very disappointed.
+		Use this gate to return once the mission is complete or do not return at all.
+		-Invoker Tane
+
+Underground chasm/river
+	They are in the middle of pulling the donkey/cart across the ravine?
+	Underground waterfall
+		Merrow CR2
+		Merfolk CR1/8 (neutral)
+		Steam Mephit CR1/4
+	Stairs the lead down to the underground river close to the base of the waterfall. Behind the waterfall is an empty cave.
+	Illusion back wall that hides a path to the underdark.
+
+
+Fork in the path (3 way)
+	Hidden arcane runes pointing towards Sparrow's Point tunnel.
+	Donkey scat 100 yards away in that direction.
+
+
+Random encounters:
+
+	While resting:
+		Herd of creatures flock down the hallway.
+		Magma Mephit CR1/2
+		Shadow CR1/2
+		
+	Buried tomb (pyramid) with army (terrocota)
+		Mummy CR3
+		Minotaur Skeleton CR2
+		Animated Armor (statues) CR1
+	
+	Bottom of a surface well? Over old river bed. Partially washed out path
+		Gray Ooze CR1/2
+		Gelatinous Cube CR2
+	
+	Path to underdark partialy closed by cave-in. Trying to clear it out. 1 lookout.
+		Troglodytes CR1/4
+	
+	Path enters large cavern. Roadway clearly marked by runes on each side.
+	Encounter if they stray off of the path
+		Magmin CR1/2
+		
+Lycanthropy:
+	25gp worth of belladonna herbs cures. 1d6 dmg
+	DC 15 medicine check
+	
+	
+Dragon Cult Ranks:
+	Novice
+	Initiate
+	Acolyte
+	Disciple
+	Invoker
+	Master
+	Prime

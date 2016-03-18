@@ -1,0 +1,30 @@
+Campaign Lore:
+
+Lycanthropy:
+	Cure:
+		25gp worth of belladonna herbs cures. 1d6 dmg
+		DC 15 medicine check
+	
+	
+Dragon Cult Ranks:
+	Novice
+	Initiate
+	Acolyte
+	Disciple
+	Invoker
+	Master
+	Prime
+	
+Fighter's Guild Ranks:
+
+
+BlackMoon  AKA Legion of BlackMoon
+					Size:  400
+					Division: Extortion, Enforcers
+					Legion Leader:  Pythanos the Black
+					BlackMoon Captain – Orthan Porto
+					Notables:
+					Lacklor (Pythanos’ son, a recent MoonSong graduate)
+					Belrod Empeer (public spokesperson of the legion)
+
+					

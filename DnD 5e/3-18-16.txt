@@ -71,15 +71,20 @@ Emerged from Deep Tunnels and won battle with Dragon Cultists waiting in ambush.
 				In the center of the platform you see a red cloth vest embroidered with gold thread.
 				Several empty barrels sit next to the door also a watering can stained red.
 				Several large pots for a bush or small tree sit on the floor.
+				
+				One pedastal has an orb in it.
+				
+				One portal opens in the basement of the Inn.
+				One portal opens in a trifecta of portals down the hall from the Orc conflux.
 			
 	
 	-Stone doorway in cart might be opened.
-		Leads to warehouse next door to the cultist safehouse.
+		Leads to warehouse close to the cultist safehouse.
 		Basement of Sparrow's Point guildhouse.
 		Heavily guarded?	
 		
 	
-	Dragon Cultist Ship (Knife's Edge)
+	-Dragon Cultist Ship (Knife's Edge)
 		Anchored several hundred yards offshore. Several longboats are tied to the shore and ferry men across.
 		A guard tower has been quickly constructed between the city and the dock. (within longbow range of each location)
 		A company of cultists guard the dock. Tents have been setup to house them.

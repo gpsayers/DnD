@@ -1,0 +1,45 @@
+Character Encounter Difficulty
+Level 	Easy 	Medium 	Hard 	Deadly
+lst 	25 		50 		75 		100
+2nd 	50 		100 	150 	200
+3rd 	75 		150 	225 	400
+4th 	125 	250 	375 	500
+5th 	250 	500 	750 	1,100
+6th 	300 	600 	900 	1,400
+7th 	350 	750 	1,100 	1,700
+8th 	450 	900 	1,400 	2,100
+9th 	550 	1,100 	1,600 	2,400
+lOth 	600 	1,200 	1,900 	2,800
+llth 	800 	1,600 	2,400 	3,600
+12th 	1,000 	2,000 	3,000 	4,500
+13th 	1,100 	2,200 	3,400 	5,100
+14th 	1,250 	2,500 	3,800 	5,700
+15th 	1,400 	2,800 	4,300 	6,400
+16th 	1,600 	3,200 	4,800 	7,200
+17th 	2,000 	3,900 	5,900 	8,800
+18th 	2,100 	4,200 	6,300 	9,500
+19th 	2,400 	4,900 	7,300 	10,900
+20th 	2,800 	5,700 	8,500 	12,700
+
+ENCOUNTER MULTIPLIERS
+Mobs 	Multiplier	PCs	Multiplier 
+1		x1			<3	+1 multiplier
+2		x1.5		4	=
+3-6		x2			6+	-1 multiplier
+7-10	x2.50
+11-14	x3
+15+		x4
+
+ADVENTURING DAY XP
+Adjusted XP per Day Adjusted XP per Day
+Level per Character Level per Character
+1st 	300 	11th 	10,500
+2nd 	600 	12th 	11,500
+3rd 	1,200 	13th 	13 ,500
+4th 	1,700 	14th 	15,000
+5th 	3,500 	15th 	18,000
+6th 	4,000 	16th 	20,000
+7th 	5,000 	17th 	25,000
+8th 	6,000 	18th 	27,000
+9th 	7,500 	19th 	30,000
+lOth 	9,000 	20th 	40,000

@@ -67,16 +67,3 @@ Random encounters:
 	Encounter if they stray off of the path
 		Magmin CR1/2
 		
-Lycanthropy:
-	25gp worth of belladonna herbs cures. 1d6 dmg
-	DC 15 medicine check
-	
-	
-Dragon Cult Ranks:
-	Novice
-	Initiate
-	Acolyte
-	Disciple
-	Invoker
-	Master
-	Prime

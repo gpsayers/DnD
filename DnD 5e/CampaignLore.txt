@@ -1,4 +1,4 @@
-Campaign Lore:
+﻿Campaign Lore:
 
 Lycanthropy:
 	Cure:
@@ -14,6 +14,7 @@ Dragon Cult Ranks:
 	Invoker
 	Master
 	Prime
+
 	
 Fighter's Guild Ranks:
 

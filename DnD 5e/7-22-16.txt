@@ -4,13 +4,21 @@ Carnival
 	-Feast with performance. Food cooked in the Inn and carrier across. Two largo pig pits made.
 	- Jousting competition
 		Captain of the guard (new) is very good
-		A red cloak kills him easily
+		A red cloak captain kills him easily
 	- Boxing Red vs Blue. Blue throws the fight.
 	- Airship (hot air balloon)
+		- powered by rod of flame
 	- Exotic Animals
+		4 headed chicken
+		Huge toad
+		Bald eagle
+		Bear covered in spikes
+		Crab with pincers to large to carry
+		
 	
 Maestro
 	-Subtley threatens Rob if his performance doesn't go well. Drunk. Smile doesn't touch his eyes. Feinting drunkeness.
+	
 
 Fortune teller
 	- The Great Mysteria (Mia Treehaven)
@@ -40,14 +48,18 @@ Dwarf recognizes Rangrim? (Figli Ironbreaker)
 	- taking bets on the events
 
 	
-Ship
-	-few drunk sailors
+Ship (Knife's Edge)
+	-Few drunk sailors playing dice
 	-Alarm Bell
 	-Mimic chest
-	-Sleeping guards. 
-	-Vault with black orb inside.
+	-Sleeping guards?
+	-Awakened Tree (masts)
+	-Captains quarters (Invoker Kane)
+		Vault with black orb inside.
+		-Treasure room
+		-Box of rats
 	-Innkeeper's wife (Mena) and Petters mom (Katherine) the only ones left.
-	-Treasure room
+	
 	-Barracks
 	-Infirmary
 	-Cargo

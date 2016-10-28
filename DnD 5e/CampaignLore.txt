@@ -1,5 +1,10 @@
 ﻿Campaign Lore:
 
+Quiznot - Mikey
+Rangrim - Quenton
+Therin - Pat
+Derendal - Rob
+
 Lycanthropy:
 	Cure:
 		25gp worth of belladonna herbs cures. 1d6 dmg
@@ -15,9 +20,14 @@ Dragon Cult Ranks:
 	Master
 	Prime
 
+	Disciple Galegon
+
 	
 Fighter's Guild Ranks:
-
+	Boris - Sergeant
+	Hadri - knows about the chest
+	Eliel
+	
 
 BlackMoon  AKA Legion of BlackMoon
 					Size:  400
@@ -27,7 +37,13 @@ BlackMoon  AKA Legion of BlackMoon
 					Notables:
 					Lacklor (Pythanos’ son, a recent MoonSong graduate)
 					Belrod Empeer (public spokesperson of the legion)
-					
+			
+
+Carnival
+	The Great Flambini (Maestro)
+	Figli Ironbreaker
+	Mia Treehaven (Mysteria)
+			
 					
 Uthuun (Man eating plants)
 	- Have a deal with the dragon cult to provide meat (villagers) for unknown reasons
@@ -42,8 +58,10 @@ Ralidor
 	
 
 Sparrow's Point
+	A medium sized town built on the shores and delta where a large river meets the ocean. Features several large islands that are connected by bridges. 
+	Marsh like area all around the town.
 	- Fighters Guild
-	- Lord
+	- Lord Dragon Singer
 	
 
 

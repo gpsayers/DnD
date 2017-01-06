@@ -1,0 +1,44 @@
+Ralidor - The mayor has asked Rangrim to choose the new captain of the guard.
+
+All of the candidates will have a fatal flaw so that he can choose Quiznot. Who finaly feels like he has found a home.
+
+Petter wants to help. He is there with Rangrim and will serve as his servant for the evening. The Mayor also wants to be part of the predeedings.
+
+Tables will be setup in the common room of the Inn. A few spectaters have come to watch.
+
+Bastian Fowler
+Description: Mid 50's. All gray with a small poney tail. Wearing rough leather vest and simple clothes. Has a sleight vestige of elven blood in his line.
+Perception bonus: Slight tremor in his hands. His voice cracks under stress.
+Flaw: Coward
+Job: Tanner
+Reasons for: Used to be in the reserve town guard for many years.
+Reasons against: Is a little on the older side.
+Secret: He ran away from a crime many years ago and a town member (Stefan - leg - old man now) was maimed because of that. 
+
+Brock Coogan
+Description: Late 30's. Muscular with a bald head. Clean white shirt but dirty pants with a wide thick leather belt and tool pouch.
+Perception bonus: He seems to be focusing on a point over your right shoulder.
+Flaw: Unqualified
+Job: grave digger\manual labor
+Reasons for: Very muscular with strong hands.
+Reasons against: He seems a bit slow
+Secret: He has never held a real weapon in his entire life and is dangerously unintelligent. Would be the pawn of Grash.
+
+Grash Northwind
+Description: Mid 40's. Black hair with a streak of gray at the temples. Petite and wearing a fine doublet and pants. Top craftsmanship. Has a rapier at his side.
+Perception bonus: Wears a smile that doesn't seem to touch his eyes. Licks his lips like a predator.
+Flaw: Corrupt
+Job: Banker
+Reasons for: Knows all of the important people in town. Can help finance the rebuilding of the guard. Good leadership skills.
+Reasons against: Not the guard type. Thin and the the build of a merchant.
+Secret: He tried to bribe Petter's father a couple years ago. Is also behind Brock's application.
+
+Jack "The Mule" Wormwood
+Description: Mid 40's. Unshaven gray stubble with lamb chops and a scar above his right eye and eyebrow. Common shirt and pants with several buttons open at the top. Has a shortsword.
+Perception bonus:
+Flaw: Lazy
+Job: Unemployed. Gold digger.
+Reasons for: Former member of the Duke's army in the north (Brag Brandop) - Private 1st class
+Reasons against: He wants an easy job.
+Secret: He is currently awol and in hiding.
+

@@ -24,6 +24,12 @@ Dragon Cult Ranks:
 
 	
 Fighter's Guild Ranks:
+	Swordsman
+	Sergeant
+	Protector
+	Captain
+	General
+
 	Boris - Sergeant
 	Hadri - knows about the chest
 	Eliel
@@ -55,7 +61,8 @@ Wearwolf group - Unknown name
 
 Ralidor
 	- Rusty Maiden Inn
-	
+	- Mazen - new mayor
+	- Jack "The Mule" Wormwood - acting captain of the guard
 
 Sparrow's Point
 	A medium sized town built on the shores and delta where a large river meets the ocean. Features several large islands that are connected by bridges. 
